@@ -6,6 +6,10 @@
     relationship.
 2.  Write methods that use the "has-many-through" relationship to deliver
     information on related objects.
+    
+ ## Lauren Here:
+ 
+(╯°□°）╯︵ ┻━┻
 
 ## Overview
 
